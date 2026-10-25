@@ -1,0 +1,12 @@
+{
+  "country": "Bangladesh",
+  "currency": "BDT",
+  "items": {
+    "Rice":        {"category": "Grains",  "unit": "kg",    "base_quantity": 20},
+    "Soybean Oil": {"category": "Oil",     "unit": "litre", "base_quantity": 5},
+    "Lentils":     {"category": "Pulses",  "unit": "kg",    "base_quantity": 3},
+    "Onion":       {"category": "Veg",     "unit": "kg",    "base_quantity": 4},
+    "Flour":       {"category": "Grains",  "unit": "kg",    "base_quantity": 3},
+    "Eggs":        {"category": "Protein", "unit": "dozen", "base_quantity": 4}
+  }
+}

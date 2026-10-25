@@ -1,0 +1,52 @@
+{
+  "sources": [
+    {
+      "name": "Chaldal",
+      "enabled": true,
+      "url": "https://chaldal.com/aci-pure-nazirshail-rice-5-kg",
+      "item": "Rice",
+      "marker": "ACI Pure Nazirshail Rice",
+      "pack_size": 5
+    },
+    {
+      "name": "Chaldal",
+      "enabled": true,
+      "url": "https://chaldal.com/fresh-fortified-soyabean-oil-5-ltr",
+      "item": "Soybean Oil",
+      "marker": "Fresh Fortified Soyabean Oil",
+      "pack_size": 5
+    },
+    {
+      "name": "Chaldal",
+      "enabled": true,
+      "url": "https://chaldal.com/teer-red-lentil-moshur-dal-1-kg",
+      "item": "Lentils",
+      "marker": "Teer Red Lentil",
+      "pack_size": 1
+    },
+    {
+      "name": "Chaldal",
+      "enabled": true,
+      "url": "https://chaldal.com/onion-local-1-kg-2",
+      "item": "Onion",
+      "marker": "Deshi Peyaj",
+      "pack_size": 1
+    },
+    {
+      "name": "Chaldal",
+      "enabled": true,
+      "url": "https://chaldal.com/flour-atta-1-kg",
+      "item": "Flour",
+      "marker": "Flour (Atta)",
+      "pack_size": 1
+    },
+    {
+      "name": "Chaldal",
+      "enabled": true,
+      "url": "https://chaldal.com/chicken-eggs-layer-white-12-pcs",
+      "item": "Eggs",
+      "marker": "Chicken Eggs Layer (White)",
+      "pack_size": 1
+    }
+  ]
+}
